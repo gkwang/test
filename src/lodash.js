@@ -8,4 +8,5 @@ function check() {
     }
   }
 
+        console.log(`Vulnerable to Prototype Pollution via ${payload}`);
 check();
